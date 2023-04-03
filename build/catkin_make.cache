@@ -1,2 +1,2 @@
-publisher_subscriber
+publisher_subscriber:week5
 -DCATKIN_DEVEL_PREFIX=/home/daniiarr/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daniiarr/catkin_ws/install -G Unix Makefiles

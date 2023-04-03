@@ -15,9 +15,13 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/order_packages.cmake"
   "publisher_subscriber/catkin_generated/ordered_paths.cmake"
   "publisher_subscriber/catkin_generated/package.cmake"
+  "week5/catkin_generated/ordered_paths.cmake"
+  "week5/catkin_generated/package.cmake"
   "/home/daniiarr/catkin_ws/src/CMakeLists.txt"
   "/home/daniiarr/catkin_ws/src/publisher_subscriber/CMakeLists.txt"
   "/home/daniiarr/catkin_ws/src/publisher_subscriber/package.xml"
+  "/home/daniiarr/catkin_ws/src/week5/CMakeLists.txt"
+  "/home/daniiarr/catkin_ws/src/week5/package.xml"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
   "/opt/ros/noetic/share/catkin/cmake/assert.cmake"
   "/opt/ros/noetic/share/catkin/cmake/atomic_configure_file.cmake"
@@ -93,6 +97,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/opt/ros/noetic/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake"
   "/opt/ros/noetic/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake"
   "/opt/ros/noetic/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake"
+  "/opt/ros/noetic/share/rospy/cmake/rospyConfig-version.cmake"
+  "/opt/ros/noetic/share/rospy/cmake/rospyConfig.cmake"
   "/opt/ros/noetic/share/rostime/cmake/rostimeConfig-version.cmake"
   "/opt/ros/noetic/share/rostime/cmake/rostimeConfig.cmake"
   "/opt/ros/noetic/share/std_msgs/cmake/std_msgs-msg-extras.cmake"
@@ -178,6 +184,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "publisher_subscriber/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "week5/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
