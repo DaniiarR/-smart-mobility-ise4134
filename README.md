@@ -2,6 +2,6 @@
 
 Code explanation provided via comments.
 
-# Week 4 project implemented:
+# Week 5 project implemented:
 
 Code avaiable under /src/week5/
